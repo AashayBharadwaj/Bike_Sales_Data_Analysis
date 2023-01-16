@@ -92,3 +92,14 @@ Step 6:
 >Inserting slicers
 >Here we added married or single filter on this chart to see how many married or single males and females have purchased the bikes.
 We can also add the same filter to other charts by selecting the slicer, going to the slicer pane and reporting connections to all the pivot tables.
+
+Step 7:
+
+As an analyst a few insights that can generated for a potential stakeholder can be:
+1)Bikes are more preferred by people in their middle age than adolescents and old people.
+
+2)The average commute for the people buying most bikes is between 0-1 mile. After this the trend is somewhat declining and flat betweek 1 miles to 10 miles.It falls drastically beyond 10 miles of commute.
+
+3)In general, for both males and females, the ones with a higher income tend to buy bikes as against the ones with a relatively lower income.
+
+
