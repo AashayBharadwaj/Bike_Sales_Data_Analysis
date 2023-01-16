@@ -50,6 +50,7 @@ Step 4:
 
 
 
+![Pivot_table_2](https://github.com/AashayBharadwaj/Bike_Sales_Data_Analysis/blob/main/Pivot_table_2.2.jpg)
 
 
 
@@ -59,6 +60,9 @@ Step 5:
 >Drag all the charts to the new sheet called dashboards
 >Blur the gridlines
 >Arrange the charts
+
+
+![Pivot_table_1](https://github.com/AashayBharadwaj/Bike_Sales_Data_Analysis/blob/main/Adding_Filters.jpg)
 
 
 Step 6:
