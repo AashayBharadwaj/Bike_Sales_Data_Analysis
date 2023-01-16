@@ -6,6 +6,11 @@ Step 1:
 Downloading the dataset
 
 Step 2:
+
+![Pivot_table_2](https://github.com/AashayBharadwaj/Bike_Sales_Data_Analysis/blob/main/Creating_4_sheets.jpg)
+
+
+
 >Creating 4 different sheets
 >Main sheet(where all the original data is kept intact)
 >Working sheet(you do your workings on this sheet)
@@ -14,6 +19,11 @@ Step 2:
 
 Step 3:
 Data Exploration
+
+![Pivot_table_2](https://github.com/AashayBharadwaj/Bike_Sales_Data_Analysis/blob/main/Exploring_data.jpg)
+
+
+
 (ID
 Marital status
 Income
@@ -31,6 +41,11 @@ Purchased bike?)
 
 Step 4:
 Data Cleaning
+
+![Pivot_table_2](https://github.com/AashayBharadwaj/Bike_Sales_Data_Analysis/blob/main/Modifying_Data.jpg)
+
+
+
 >Remove duplicates(Go to data pane and click on remove duplicates)
 >Replace the “M’s” & “S’s” in the Married/Single column with Married and Single.
 (Use CTRL + H for using the find and replace command)
@@ -57,6 +72,11 @@ Step 4:
 
 Step 5:
 >Creating dashboard
+
+![Pivot_table_2](https://github.com/AashayBharadwaj/Bike_Sales_Data_Analysis/blob/main/FInal_Dashboard.jpg)
+
+
+
 >Drag all the charts to the new sheet called dashboards
 >Blur the gridlines
 >Arrange the charts
