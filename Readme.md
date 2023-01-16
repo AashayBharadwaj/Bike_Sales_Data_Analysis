@@ -27,6 +27,8 @@ Region
 Age
 Purchased bike?)
 
+
+
 Step 4:
 Data Cleaning
 >Remove duplicates(Go to data pane and click on remove duplicates)
@@ -43,7 +45,8 @@ Step 4:
 >In the first step you create a table to see the average income for males and females
 >Here we can see the average income of the Females and Male who have and have not purchased a bike.
 
-
+# Bike_Sales_Data_Analysis
+![Pivot_table_1](https://github.com/AashayBharadwaj/Bike_Sales_Data_Analysis/blob/main/Pivot_Table_1.jpg)
 
 
 
